@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './styles/BadgeEdit.css';
-import header from '../images/techno.svg';
+import header from '../images/home.svg';
 import Badge from '../components/Badge';
 import BadgeForm from '../components/BadgeForm';
 import PageLoading from '../components/PageLoading';
@@ -84,7 +84,7 @@ class BadgeEdit extends React.Component {
               />
             </div>
 
-            <div className="col-6">
+            <div className="col-6" >
               <h1>Edit Attendant</h1>
               <BadgeForm 
                 onChange={this.handleChange} 

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './styles/BadgeNew.css';
-import header from '../images/techno.svg';
+import header from '../images/home.svg';
 import Badge from '../components/Badge';
 import BadgeForm from '../components/BadgeForm';
 import PageLoading from '../components/PageLoading';

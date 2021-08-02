@@ -30,20 +30,21 @@ a.link-unstyled:hover {
 
 .btn.btn-primary {
   color: #fff;
-  background-color: #7dcd40;
-  border-color: #7dcd40;
+  background-color: #0f0d7a;
+  border-color: #0f0d7a;
+  margin-bottom: 10px;
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):hover {
   color: #fff;
-  background-color: #7dcd40;
-  border-color: #7dcd40;
+  background-color: #0f0d7a;
+  border-color: #0f0d7a;
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):active {
   color: #fff;
-  background-color: #7dcd40;
-  border-color: #7dcd40;
+  background-color: #0f0d7a;
+  border-color: #0f0d7a;
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):focus {
